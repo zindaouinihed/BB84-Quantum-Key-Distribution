@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ## Running the Simulation
 
 ```bash
-python bb84_simulator.py
+python bb84.py
 ```
 
 ## Results and Analysis

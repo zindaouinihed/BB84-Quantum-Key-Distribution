@@ -61,6 +61,9 @@ The simulation compares QBER values with and without Eve's intervention and stud
 
 In an ideal BB84 simulation, a full Intercept-Resend attack introduces an expected QBER of approximately **25%** in the sifted key.
 
+### QBER Analysis
+![QBER Analysis](images/qber_analysis.png)
+
 ## Important Note
 
 This project is an educational classical simulation of the BB84 protocol. It illustrates the protocol's logic and security principles but does not implement actual quantum hardware or a complete practical QKD system.
